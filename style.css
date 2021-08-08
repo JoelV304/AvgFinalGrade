@@ -1,0 +1,23 @@
+header {
+  text-align: center;
+  background-size: cover;
+  color: white;
+  background: url("https://www.gettingsmart.com/wp-content/uploads/2015/09/school-art-seamless-964x670.jpg");
+}
+body {
+  Font: Georgia;
+  color: white;
+  background: url("https://www.fredrogerscenter.org/wp-content/uploads/2015/11/dark-grey-background-FRC-Grey.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+table, th, td {
+  margin: 15px auto;
+  border: 5px solid rgb(255, 255, 255);
+  border-collapse: collapse;
+  padding: 15px;
+}
+.thumbnail  {
+  margin: 0 auto;
+  border-radius: 12;
+}
